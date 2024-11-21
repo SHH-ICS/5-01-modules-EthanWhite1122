@@ -12,4 +12,4 @@ else:
     b=float(b)**2
     c=float(a)+int(b)
     c=math.sqrt(c)
-    print("Your hypotenuse is:", float(c))
+    print("Your hypotenuse or length C is:", float(c))
